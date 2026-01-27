@@ -125,8 +125,8 @@ Recruiters care about **what you built**, not just certificates.
 
 ## 📬 Connect With Me
 
-- **LinkedIn**: [_add your LinkedIn profile_](https://www.linkedin.com/in/rimonghosh/)  
-- **GitHub**: (github.com/ghorimon) 
+- **LinkedIn**: [Click Here 🔴](https://www.linkedin.com/in/rimonghosh/)  
+- **GitHub**: [Click Here 🔴](https://github.com/ghorimon)
 - **Email**: (rimonsarbajitghosh@gmail.com)
 
 ---
