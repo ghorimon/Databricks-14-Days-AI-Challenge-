@@ -48,20 +48,20 @@ By going through this repository, you’ll understand how to:
 | Day | Topic | What I Worked On | LinkedIn Post |
 |----|------|------------------|--------------|
 | D0 ✅ | Setup & Data Loading | Installed Databricks, configured workspace, and prepared datasets | [View Post](https://www.linkedin.com/posts/activity-7415053256831479809-MagL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
-| D1 🚀 | Platform Setup & First Steps | Explored Databricks workspace, notebooks, clusters, and basic operations | [View Post](https://www.linkedin.com/) |
-| D2 ⚡ | Apache Spark Fundamentals | Learned Spark RDDs, DataFrames, and core transformations | [View Post](https://www.linkedin.com/) |
-| D3 🧹 | PySpark Transformations | Applied PySpark transformations for cleaning and processing data | [View Post](https://www.linkedin.com/) |
-| D4 🗄️ | Delta Lake Basics | Implemented Delta tables and understood ACID transactions | [View Post](https://www.linkedin.com/) |
-| D5 ⏳ | Delta Lake Advanced | Explored versioning, time travel, and advanced Delta features | [View Post](https://www.linkedin.com/) |
-| D6 🏗️ | Medallion Architecture | Designed Bronze–Silver–Gold layers for structured pipelines | [View Post](https://www.linkedin.com/) |
-| D7 🤖 | Workflows & Jobs | Automated ETL pipelines using Databricks Jobs | [View Post](https://www.linkedin.com/) |
-| D8 🔐 | Unity Catalog | Managed data governance, permissions, and catalog structure | [View Post](https://www.linkedin.com/) |
-| D9 📊 | Databricks SQL | Performed analytics using SQL on Delta tables | [View Post](https://www.linkedin.com/) |
-| D10 ⚙️ | Performance Optimization | Applied caching, partitioning, and query optimization | [View Post](https://www.linkedin.com/) |
-| D11 🧠 | ML Preparation | Feature engineering and data prep for ML models | [View Post](https://www.linkedin.com/) |
-| D12 📈 | MLflow | Tracked experiments, parameters, and metrics | [View Post](https://www.linkedin.com/) |
-| D13 🧪 | Model Comparison | Evaluated multiple models using performance metrics | [View Post](https://www.linkedin.com/) |
-| D14 🤖✨ | AI & Generative Analytics | Explored AI-driven analytics and generative AI use cases | [View Post](https://www.linkedin.com/) |
+| D1 🚀 | Platform Setup & First Steps | Explored Databricks workspace, notebooks, clusters, and basic operations | [View Post](https://www.linkedin.com/posts/activity-7415418397707948032-xiwF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D2 ⚡ | Apache Spark Fundamentals | Learned Spark RDDs, DataFrames, and core transformations | [View Post](https://www.linkedin.com/posts/activity-7415803744866598912-1y67?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D3 🧹 | PySpark Transformations | Applied PySpark transformations for cleaning and processing data | [View Post](https://www.linkedin.com/posts/activity-7415992277447139328-UV7z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D4 🗄️ | Delta Lake Basics | Implemented Delta tables and understood ACID transactions | [View Post]([https://www.linkedin.com/](https://www.linkedin.com/posts/activity-7416522710396141568-WWf9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0)) |
+| D5 ⏳ | Delta Lake Advanced | Explored versioning, time travel, and advanced Delta features | [View Post](https://www.linkedin.com/posts/activity-7416869073227100160-qIou?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D6 🏗️ | Medallion Architecture | Designed Bronze–Silver–Gold layers for structured pipelines | [View Post](https://www.linkedin.com/posts/activity-7417261176767541248-FUrk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D7 🤖 | Workflows & Jobs | Automated ETL pipelines using Databricks Jobs | [View Post](https://www.linkedin.com/posts/activity-7417588731890647040-HpJp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D8 🔐 | Unity Catalog | Managed data governance, permissions, and catalog structure | [View Post](https://www.linkedin.com/posts/activity-7417778064060854272-zqb1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D9 📊 | Databricks SQL | Performed analytics using SQL on Delta tables | [View Post](https://www.linkedin.com/posts/activity-7418140013839843328-BfPN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D10 ⚙️ | Performance Optimization | Applied caching, partitioning, and query optimization | [View Post]([https://www.linkedin.com/](https://www.linkedin.com/posts/activity-7418694660342087680-j51m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0)) |
+| D11 🧠 | ML Preparation | Feature engineering and data prep for ML models | [View Post](https://www.linkedin.com/posts/activity-7418888465880227840-SPtv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D12 📈 | MLflow | Tracked experiments, parameters, and metrics | [View Post](https://www.linkedin.com/posts/activity-7419425465922351104-jqXz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D13 🧪 | Model Comparison | Evaluated multiple models using performance metrics | [View Post](https://www.linkedin.com/posts/activity-7419792313893208064-uciZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
+| D14 🤖✨ | AI & Generative Analytics | Explored AI-driven analytics and generative AI use cases | [View Post](https://www.linkedin.com/posts/activity-7420117560991440896-9fB1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
 
 > Each LinkedIn post documents daily learnings with explanations and screenshots — showcasing consistent public progress.
 
