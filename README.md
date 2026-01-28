@@ -47,7 +47,7 @@ By going through this repository, you’ll understand how to:
 
 | Day | Topic | What I Worked On | LinkedIn Post |
 |----|------|------------------|--------------|
-| D0 ✅ | Setup & Data Loading | Installed Databricks, configured workspace, and prepared datasets | [View Post](https://www.linkedin.com/) |
+| D0 ✅ | Setup & Data Loading | Installed Databricks, configured workspace, and prepared datasets | [View Post](https://www.linkedin.com/posts/activity-7415053256831479809-MagL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF66IMBh-DN11s4q3SGkQLxdJ5-DFy6Up0) |
 | D1 🚀 | Platform Setup & First Steps | Explored Databricks workspace, notebooks, clusters, and basic operations | [View Post](https://www.linkedin.com/) |
 | D2 ⚡ | Apache Spark Fundamentals | Learned Spark RDDs, DataFrames, and core transformations | [View Post](https://www.linkedin.com/) |
 | D3 🧹 | PySpark Transformations | Applied PySpark transformations for cleaning and processing data | [View Post](https://www.linkedin.com/) |
